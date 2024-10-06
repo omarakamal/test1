@@ -1,0 +1,21 @@
+pwd: present working directory. Shows the current directory the user is in
+ls: List all the files and folders in the current directory
+ls -a
+ls -lah
+touch
+cat
+cd
+cd..
+Less
+Man
+nano
+–help
+man
+history
+mkdir
+rmdir
+rm -rf
+cp
+cp -r
+mv
+*
